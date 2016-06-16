@@ -1,4 +1,4 @@
-# tools
+# Tools
 	Tools to Help with general stuff (for example, naming a development branch)
 
 
